@@ -9,7 +9,7 @@ Hey, I'm Yang, a teenage web developer from Romania. I'm all about coding, start
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [superyang2@protonmail.com](mailto:superyang2@protonmail.com)
 * 🚀  I'm currently working on [DozaBot - The best romanian discord bot](http://dozabot.eu)
-* 🧠  I'm learning TypeScript, Vite, React, Tailwind
+* 🧠  I'm learning TypeScript, Vite, Vue, Tailwind
 * ⚡  Just existing
 
 ### Skills
